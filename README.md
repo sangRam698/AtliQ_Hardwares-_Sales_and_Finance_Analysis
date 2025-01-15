@@ -13,7 +13,7 @@ Please find the sectional links for the project below:
   - [Problem Statement](#problem-statement)
 
 - [Sales Analytics Reports](https://github.com/sangRam698/AtliQ_Hardwares-_Sales_and_Finance_Analysis/blob/main/Sales%20Analytics%20Reports.pdf)
-  (https://github.com/5ifar/Sales_and_Finance_Analytics_of_AtliQHardwares/blob/main/Sales%20Analytics%20Reports/Sales%20Analytics%20Reports%20Documentation.md)
+
 - [Finance Analytics Reports](https://github.com/sangRam698/AtliQ_Hardwares-_Sales_and_Finance_Analysis/blob/main/finance%20Analytics%20reports.pdf)
 
 
