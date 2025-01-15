@@ -11,12 +11,12 @@ The project files have not been uploaded to this repository in compliance with C
 Please find the sectional links for the project below:
 - [Introduction](#introduction)
   - [Problem Statement](#problem-statement)
-- [AtliQ Hardware Compiled Report](https://github.com/5ifar/AtliQHardware_Sales_and_Finance_Analytics/blob/main/AtliQ%20Hardware%20Compiled%20Report.pdf)
-- [Sales Analytics Reports](https://github.com/5ifar/Sales_and_Finance_Analytics_of_AtliQHardwares/tree/main/Sales%20Analytics%20Reports/Sales%20Analytics%20Reports%20Files)
-  - [Sales Analytics Reports Documentation](https://github.com/5ifar/Sales_and_Finance_Analytics_of_AtliQHardwares/blob/main/Sales%20Analytics%20Reports/Sales%20Analytics%20Reports%20Documentation.md)
-- [Finance Analytics Reports](https://github.com/5ifar/Sales_and_Finance_Analytics_of_AtliQHardwares/tree/main/Finance%20Analytics%20Reports/Finance%20Analytics%20Reports%20Files)
-  - [Finance Analytics Reports Documentation](https://github.com/5ifar/Sales_and_Finance_Analytics_of_AtliQHardwares/blob/main/Finance%20Analytics%20Reports/Finance%20Analytics%20Reports%20Documentation.md)
-- [AtliQ Hardware Report Presentation](https://github.com/5ifar/AtliQHardware_Sales_and_Finance_Analytics/blob/main/AtliQ%20Hardware%20Report%20Presentation.pptx)
+
+- [Sales Analytics Reports](https://github.com/sangRam698/AtliQ_Hardwares-_Sales_and_Finance_Analysis/blob/main/Sales%20Analytics%20Reports.pdf)
+  (https://github.com/5ifar/Sales_and_Finance_Analytics_of_AtliQHardwares/blob/main/Sales%20Analytics%20Reports/Sales%20Analytics%20Reports%20Documentation.md)
+- [Finance Analytics Reports](https://github.com/sangRam698/AtliQ_Hardwares-_Sales_and_Finance_Analysis/blob/main/finance%20Analytics%20reports.pdf)
+
+
 - [Tools used & Methodologies implemented](#tools-used)
 - [About the Dataset](#about-the-dataset)
   - [Data Integrity](#data-integrity)
