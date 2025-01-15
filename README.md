@@ -1,1 +1,1 @@
-# AtliQ-Hardwares-sales-and-finance-Project-
+# AtliQ Hardwares Sales and Finance Project
