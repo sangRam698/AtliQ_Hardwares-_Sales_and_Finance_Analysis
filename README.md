@@ -93,21 +93,17 @@ ROCCC Evaluation:
 
 <img src="https://github.com/sangRam698/AtliQ_Hardwares-_Sales_and_Finance_Analysis/blob/main/Assets/0.png" alt="" />
 
-<img src="https://github.com/sangRam698/AtliQ_Hardwares-_Sales_and_Finance_Analysis/blob/main/Assets/1.png" alt="" />
+<img src="https://github.com/sangRam698/AtliQ_Hardwares-_Sales_and_Finance_Analysis/blob/main/Assets/2.png" alt="" />
 
-<img src="https://datawrapper.dwcdn.net/aLbnS/full.png" alt="" />
+<img src="https://github.com/sangRam698/AtliQ_Hardwares-_Sales_and_Finance_Analysis/blob/main/Assets/3.png" alt="" />
 
-<img src="https://datawrapper.dwcdn.net/qxZsY/full.png" alt="" />
+<img src="https://github.com/sangRam698/AtliQ_Hardwares-_Sales_and_Finance_Analysis/blob/main/Assets/4.png" alt="" />
 
-<img src="https://datawrapper.dwcdn.net/j22dx/full.png" alt="" />
+<img src="https://github.com/sangRam698/AtliQ_Hardwares-_Sales_and_Finance_Analysis/blob/main/Assets/5.png" alt="" />
 
-<img src="https://datawrapper.dwcdn.net/Xj08J/full.png" alt="" />
+<img src="https://github.com/sangRam698/AtliQ_Hardwares-_Sales_and_Finance_Analysis/blob/main/Assets/6.png" alt="" />
 
-<img src="https://datawrapper.dwcdn.net/OdCYE/full.png" alt="" />
 
-<img src="https://datawrapper.dwcdn.net/mcbgG/full.png" alt="" />
-
-<img src="https://datawrapper.dwcdn.net/SxD4Y/full.png" alt="" />
 
 
 
