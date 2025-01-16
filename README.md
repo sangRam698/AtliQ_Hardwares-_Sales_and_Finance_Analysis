@@ -91,9 +91,9 @@ ROCCC Evaluation:
 
 ## Analysis Insights:
 
-<img src="" alt="" />
+<img src="https://github.com/sangRam698/AtliQ_Hardwares-_Sales_and_Finance_Analysis/blob/main/Assets/0.png" alt="" />
 
-<img src="https://datawrapper.dwcdn.net/qU7i7/full.png" alt="" />
+<img src="https://github.com/sangRam698/AtliQ_Hardwares-_Sales_and_Finance_Analysis/blob/main/Assets/1.png" alt="" />
 
 <img src="https://datawrapper.dwcdn.net/aLbnS/full.png" alt="" />
 
